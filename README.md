@@ -1,4 +1,4 @@
-[![ProjectLogo](/resources/groupprojectlogo.png)](https://github.com/benjaminweymouth/fintech-project1-data-analysis)
+[![ProjectLogo](/Resources/groupprojectlogo.png)]
 # Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akhbar ###
