@@ -1,4 +1,3 @@
-[[ProjectLogo](/Resources/groupprojectlogo.png)]
 [![ProjectLogo](/Resources/groupprojectlogo.png))]
 # Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
 
