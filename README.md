@@ -1,6 +1,6 @@
 # Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
 
-### About ###
+### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akhbar ###
 -----------------------------
 We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
 
