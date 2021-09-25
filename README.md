@@ -6,10 +6,10 @@ We want to explore the correlation between the covid-era market trends on crypto
 
 ### Table of Contents ### 
 -----------------------------
-[Topic of Research](#Topic-of-Research) 
-[Analysis](#Analysis) 
-[Question](#Question) 
-[Sources for Datasets](#Sources for Datasets) 
+1. [Topic of Research](#Topic-of-Research) 
+1. [Analysis](#Analysis) 
+1. [Question](#Question) 
+1. [Sources for Datasets](#Sources-for-Datasets) 
  
 
 ## Topic of Research
