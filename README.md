@@ -1,4 +1,5 @@
 [[ProjectLogo](/Resources/groupprojectlogo.png)]
+[![ProjectLogo](/Resources/groupprojectlogo.png))](https://www.wealthsimple.com/en-ca/)
 # Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akhbar ###
