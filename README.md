@@ -16,6 +16,10 @@ We want to explore the correlation between the covid-era market trends on crypto
 ## Topic of Research
 We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
 
+## Did covid affect crypto prices - before / after comparison. take 3 years before and 2 years of covid and compare pricing. 
+## Country analysis: China statements on crypto, pre-covid. China statements on crypto post-covid. Conclude: buy, hold, sell. 
+## Microprocessor shortage. ETF before covid, ETF on microprocessors after covid. Conclude: buy, hold, sell. 
+
 ## Analysis
 We have Through different data charts and plots, we will draw some conclusions patterns, and show whether there is strong or weak correlation. Positive versus negative news on certain date, and include news sources. (The NY Times, The Toronto Star, The Economist) 
 
