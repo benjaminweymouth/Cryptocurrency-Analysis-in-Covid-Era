@@ -35,3 +35,19 @@ What covid-era correlations can we determine from analyzing cryptocurrency marke
 * Statsmodels.tsa.seasonal import seasonal_decompose (new library)
 * Seaborn 
 * Parallel Categories Graph 
+
+
+## In order to run this code you must have installed the following items: 
+
+* Python, Anaconda and Jupyter Lab
+* PlotLy
+* Pandas 
+* Hvplot 
+* Matplotlib and pyplot
+* Scatter
+* Bokeh Server
+* yfinance (Yahoo finance) 
+* Download CSV for WHO Covid-19 data 
+* Path and all required import statements 
+* Place the Yahoo API key in an environment variable file, to reference in your local file explorer. 
+
