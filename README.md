@@ -23,7 +23,7 @@ We want to explore the correlation between the covid-era market trends on crypto
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Gold and Cryptocurrency Analysis: Video (Sadia) 
-![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
+![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
 ## Meme Stock and Cryptocurrency Analysis: Video (Mo) 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 ## Semiconductor and Cryptocurrency Analysis: Video (Ben) 
