@@ -1,5 +1,5 @@
 ![ProjectLogo](/Resources/groupprojectlogo.png)
-# Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
+# Crypto and Covid: A Case Study on the correlation between covid, cryptocurrencies and the financial markets. 
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
 -----------------------------
