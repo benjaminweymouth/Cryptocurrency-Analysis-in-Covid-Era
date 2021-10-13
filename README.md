@@ -11,9 +11,9 @@ Our motivation is to understand how the covid pandemic affected market trends, v
 1. [Topic of Research](#topic-of-research) 
 1. [DashBoard Video](#dashboard-video) 
 1. [Powerpoint Analysis](#powerpoint-analysis) 
-1. [Gold and Cryptocurrency Analysis](#Gold-and-Cryptocurrency-Analysis) 
-1. [Meme Stock and Cryptocurrency Analysis](#Meme-Stock-and-Cryptocurrency-Analysis) 
-1. [Semiconductor and Cryptocurrency Analysis](#Semiconductor-and-Cryptocurrency-Analysis) 
+1. [Gold and Cryptocurrency Analysis, by Sadia Akbar](#Gold-and-Cryptocurrency-Analysis) 
+1. [Meme Stock and Cryptocurrency Analysis, by Mohamed Berrachdi](#Meme-Stock-and-Cryptocurrency-Analysis) 
+1. [Semiconductor and Cryptocurrency Analysis, by Benjamin Weymouth](#Semiconductor-and-Cryptocurrency-Analysis) 
 1. [Sources for Datasets](#Sources-for-Datasets) 
 1. [Installation Requirements](#Installation-Requirements) 
  
