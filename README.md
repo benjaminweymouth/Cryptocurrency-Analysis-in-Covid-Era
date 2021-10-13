@@ -1,5 +1,5 @@
 ![ProjectLogo](/Resources/groupprojectlogo.png)
-# Crypto and Covid: A Case Study on the correlation between covid, cryptocurrencies and the financial markets. 
+# Crypto and Covid: An analysis of cryptocurrencies and the financial markets during the covid era
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
 -----------------------------
