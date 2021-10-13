@@ -15,6 +15,7 @@ We want to explore the correlation between the covid-era market trends on crypto
 1. [Meme Stock and Cryptocurrency Analysis](#Meme-Stock-and-Cryptocurrency-Analysis) 
 1. [Semiconductor and Cryptocurrency Analysis](#Semiconductor-and-Cryptocurrency-Analysis) 
 1. [Sources for Datasets](#Sources-for-Datasets) 
+1. [Installation Requirements](#Installation-Requirements) 
  
 ## Topic of Research
 
