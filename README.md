@@ -12,8 +12,8 @@ We want to explore the correlation between the covid-era market trends on crypto
 1. [DashBoard Video](#dashboard-video) 
 1. [Powerpoint Analysis](#powerpoint-analysis) 
 1. [Gold and Cryptocurrency Analysis](#Gold-and-Cryptocurrency-Analysis) 
-1. [Powerpoint Analysis](#powerpoint-analysis) 
-1. [Powerpoint Analysis](#powerpoint-analysis) 
+1. [Meme Stock and Cryptocurrency Analysis](#Meme-Stock-and-Cryptocurrency-Analysis) 
+1. [Semiconductor and Cryptocurrency Analysis](#Semiconductor-and-Cryptocurrency-Analysis) 
 1. [Sources for Datasets](#Sources-for-Datasets) 
  
 ## Topic of Research
@@ -29,11 +29,15 @@ We have Through different data charts and plots, we will draw some conclusions p
 ![PowerPointVideo](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/PowerPointGroupVideo.gif)
 
 ## Gold and Cryptocurrency Analysis
-## Video (Sadia) 
+## Video for Jupyter Notebook (Sadia) 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
-## Meme Stock and Cryptocurrency Analysis: Video (Mo) 
+
+## Meme Stock and Cryptocurrency Analysis
+## Video for Jupyter Notebook (Mo)  
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
-## Semiconductor and Cryptocurrency Analysis: Video (Ben) 
+
+## Semiconductor and Cryptocurrency Analysis  
+## Video for Jupyter Notebook (Ben) 
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Sources for Datasets
