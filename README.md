@@ -3,7 +3,7 @@
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
 -----------------------------
-We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
+Our motivation is to understand how the covid pandemic affected market trends, volatility and correlations between various market forces in cryptocurrencies, commodities and the semiconductor industry. We will address the connection between cryptocurrencies, the covid pandemic, and various X-Factors: semiconductors, meme stocks and gold. 
 
 
 ### Table of Contents ### 
@@ -19,9 +19,8 @@ We want to explore the correlation between the covid-era market trends on crypto
  
 ## Topic of Research
 
-We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, and gold. Each group member will explore desirable investment choices during the covid-era. 
-
-We have Through different data charts and plots, we will draw some conclusions patterns, and show whether there is strong or weak correlation. Positive versus negative news on certain date, and include news sources. What covid-era correlations can we determine from analyzing cryptocurrency markets as relating to microprocessor shortage, traditional assets (gold, lumber) and the introduction of meme stocks? 
+We sought to uncover the answer to these questions: is there a correlation between the performance of our X-Factor, cryptocurrency and the covid crisis? 
+If an investor had a choice, should they have invested in an X-Factor or in cryptocurrencies based on pre and post covid performance? For our cryptocurrency, gold and the semiconductor industry analysis, we utilized Yahoo Finance. We looked at other commodities on finance but narrowed our scope and gained some momentum. For our data on the covid crisis, we turned to an internationally recognized body, the World Health Organization. We were able to find csv data on covid case numbers. 
 
 ## DashBoard Video:  
 ![DashBoardRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
