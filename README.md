@@ -11,9 +11,9 @@ Our motivation is to understand how the covid pandemic affected market trends, v
 1. [Topic of Research](#topic-of-research) 
 1. [DashBoard Video](#dashboard-video) 
 1. [Powerpoint Analysis](#powerpoint-analysis) 
-1. [Gold and Cryptocurrency Analysis, by Sadia Akbar](#Gold-and-Cryptocurrency-Analysis) 
-1. [Meme Stock and Cryptocurrency Analysis, by Mohamed Berrachdi](#Meme-Stock-and-Cryptocurrency-Analysis) 
-1. [Semiconductor and Cryptocurrency Analysis, by Benjamin Weymouth](#Semiconductor-and-Cryptocurrency-Analysis) 
+1. [Gold and Cryptocurrency Analysis, by Sadia Akbar](#Gold-and-Cryptocurrency-Analysis-by-Sadia-Akbar) 
+1. [Meme Stock and Cryptocurrency Analysis, by Mohamed Berrachdi](#Meme-Stock-and-Cryptocurrency-Analysis-by-Mohamed-Berrachdi) 
+1. [Semiconductor and Cryptocurrency Analysis, by Benjamin Weymouth](#Semiconductor-and-Cryptocurrency-Analysis-by-Benjamin-Weymouth) 
 1. [Sources for Datasets](#Sources-for-Datasets) 
 1. [Installation Requirements](#Installation-Requirements) 
  
@@ -31,17 +31,17 @@ Here is a recording of our final dashboard, which includes data visualizations f
 Here is a recording of our powerpoint slide deck, which includes notes and highlights from all three group members. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Project%201_Group%201_%20Covid%20Market%20Trends.pptx) for the PPT (please download to view the slide deck properly.)
 ![PowerPointVideo](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/PowerPointGroupVideo.gif)
 
-## Gold and Cryptocurrency Analysis, by Sadia Akbar
+## Gold and Cryptocurrency Analysis by Sadia Akbar
 ### Video for Jupyter Notebook  
 Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb) for Sadia's notebook. 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
 
-## Meme Stock and Cryptocurrency Analysis, by Mohamed Berrachdi
+## Meme Stock and Cryptocurrency Analysis by Mohamed Berrachdi
 ### Video for Jupyter Notebook  
 Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Mo_Jupyter_Video.gif)
 
-## Semiconductor and Cryptocurrency Analysis, by Benjamin Weymouth
+## Semiconductor and Cryptocurrency Analysis by Benjamin Weymouth
 ### Video for Jupyter Notebook
 Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)  Ben's notebook. 
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Ben_Jupyter_Video.gif)
