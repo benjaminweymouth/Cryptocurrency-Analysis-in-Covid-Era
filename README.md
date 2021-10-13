@@ -28,7 +28,7 @@ Here is a recording of our final dashboard, which includes data visualizations f
 ![DashBoardRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Powerpoint Analysis
-Here is a recording of our powerpoint slide deck, which includes notes and highlights from all three group members. 
+Here is a recording of our powerpoint slide deck, which includes notes and highlights from all three group members. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Project%201_Group%201_%20Covid%20Market%20Trends.pptx) for the PPT (please download to view the slide deck properly.)
 ![PowerPointVideo](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/PowerPointGroupVideo.gif)
 
 ## Gold and Cryptocurrency Analysis
