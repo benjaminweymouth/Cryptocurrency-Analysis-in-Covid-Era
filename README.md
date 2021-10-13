@@ -38,12 +38,12 @@ Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analy
 
 ## Meme Stock and Cryptocurrency Analysis
 ## Video for Jupyter Notebook (Mo)  
-Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the link for Mo's notebook. 
+Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Semiconductor and Cryptocurrency Analysis  
 ## Video for Jupyter Notebook (Ben) 
-Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the link Ben's notebook. 
+Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)  Ben's notebook. 
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Sources for Datasets
