@@ -48,8 +48,11 @@ Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrenc
 
 ## Sources for Datasets
 * API for yfinance, Yahoo Finance (meme stocks, gold, semicondunctor ETF) 
-* API  for VanEck Vectors Semiconductor ETF (SMH)
+* yfinance for VanEck Vectors Semiconductor ETF (SMH)
+* Meme Stocks: used yfinance
+* Gold: used yfinance
 * New library used: yfinance 
+* World Health Organization (WHO) csv for Covid case dataset
 
 ## Installation Requirements
 
