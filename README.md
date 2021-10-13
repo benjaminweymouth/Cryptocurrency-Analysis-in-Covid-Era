@@ -33,7 +33,7 @@ Here is a recording of our powerpoint slide deck, which includes notes and highl
 
 ## Gold and Cryptocurrency Analysis
 ## Video for Jupyter Notebook (Sadia) 
-Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analysis. Here's the ![link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb) for Sadia's notebook. 
+Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb) for Sadia's notebook. 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
 
 ## Meme Stock and Cryptocurrency Analysis
