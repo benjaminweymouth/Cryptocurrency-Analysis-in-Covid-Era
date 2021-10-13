@@ -44,7 +44,7 @@ Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency An
 ## Semiconductor and Cryptocurrency Analysis  
 ## Video for Jupyter Notebook (Ben) 
 Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)  Ben's notebook. 
-![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
+![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Ben_Jupyter_Video.gif)
 
 ## Sources for Datasets
 * API for yfinance, Yahoo Finance (meme stocks, gold, semicondunctor ETF) 
