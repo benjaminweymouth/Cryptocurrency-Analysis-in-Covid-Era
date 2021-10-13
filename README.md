@@ -19,11 +19,14 @@ We want to explore the correlation between the covid-era market trends on crypto
 ## Topic of Research
 We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
 
-## Gold and Cryptocurrency Analysis: Video 
+## Powerpoint Analysis: (Group)
+![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
+
+## Gold and Cryptocurrency Analysis: Video (Sadia) 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
-## Meme Stock and Cryptocurrency Analysis: Video 
+## Meme Stock and Cryptocurrency Analysis: Video (Mo) 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
-## Semiconductor and Cryptocurrency Analysis: Video 
+## Semiconductor and Cryptocurrency Analysis: Video (Ben) 
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
 
 ## Analysis
