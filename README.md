@@ -36,15 +36,9 @@ We have Through different data charts and plots, we will draw some conclusions p
 What covid-era correlations can we determine from analyzing cryptocurrency markets as relating to microprocessor shortage, traditional assets (gold, lumber) and the introduction of meme stocks? 
 
 ## Sources for Datasets
-* API for Yahoo Finance (stocks, gold, lumber) 
-* API for CoinMarketCap (cryptocurrencies, fiat) 
+* API for yfinance, Yahoo Finance (meme stocks, gold, semicondunctor ETF) 
 * API  for VanEck Vectors Semiconductor ETF (SMH)
-* VanEck is a tech industry ETF/ microprocessor / TSMC  (Yahoo Finance)
-* Libraries for Visualization / Plotting / Graphs: (with new Python Library)
-* Statsmodels.tsa.seasonal import seasonal_decompose (new library)
-* Seaborn 
-* Parallel Categories Graph 
-
+* New library used: yfinance 
 
 ## In order to run this code you must have installed the following items: 
 
@@ -52,6 +46,7 @@ What covid-era correlations can we determine from analyzing cryptocurrency marke
 * PlotLy
 * Pandas 
 * Hvplot 
+* Holoviz Panel (for dashboard) 
 * Matplotlib and pyplot
 * Scatter
 * Bokeh Server
