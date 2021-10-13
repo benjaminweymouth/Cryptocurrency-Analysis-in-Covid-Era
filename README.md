@@ -1,13 +1,6 @@
 ![ProjectLogo](/Resources/groupprojectlogo.png)
 # Crypto and Covid: A Case Study of Investments, Opportunities and Failures 
 
-## DashBoard Video:  
-![DashBoardRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
-
-### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akhbar ###
------------------------------
-We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
-
 ### Table of Contents ### 
 -----------------------------
 1. [Topic of Research](#Topic-of-Research) 
@@ -15,9 +8,17 @@ We want to explore the correlation between the covid-era market trends on crypto
 1. [Question](#Question) 
 1. [Sources for Datasets](#Sources-for-Datasets) 
  
-
 ## Topic of Research
+
+We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, and gold. Each group member will explore desirable investment choices during the covid-era. 
+
+## DashBoard Video:  
+![DashBoardRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/DashboardGroupVideo.gif)
+
+### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
+-----------------------------
 We want to explore the correlation between the covid-era market trends on crypto, microprocessor shortage, meme stocks, traditional/gold/lumber price surge. Our case study will explore desirable investment choices during the covid-era. 
+
 
 ## Powerpoint Analysis: (Group)
 ![PowerPointVideo](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/PowerPointGroupVideo.gif)
