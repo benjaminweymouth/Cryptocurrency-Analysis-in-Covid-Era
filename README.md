@@ -41,6 +41,8 @@ Section 2: Cryptocurrencies and Gold comparability in during the covid era.
 
 Section 3: An investment analysis to answer the most weighted question of which is a better long term investment? Gold or cryptocurrency?
 
+Further details, conclusions and key takeaways are provided in [Sadia's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb).
+
 ### Video for Jupyter Notebook  
 Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb) for Sadia's notebook. 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
@@ -60,6 +62,8 @@ Using date results from https://swaggystocks.com/dashboard/stocks/terminal/TSLA 
 
 To illustrate the above analysis with a real life case study, we are here listing an investment scenario for different amount both in Meme Stocks and BTC.
 
+Further details, conclusions and key takeaways are provided in [Sadia's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb).
+
 ### Video for Jupyter Notebook  
 Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Mo_Jupyter_Video.gif)
@@ -75,7 +79,7 @@ This section of our group project seeks to deconstruct some of the key features,
 <strong> Section 3: A 3-point Portfolio Analysis </strong>The third section will analyse the performance of a portfolio that is semiconductor-centric but also includes cryptocurrency in both the pre-covid and post-covid timeframes. It will highlight 3 distinct points in time: the pre-covid, peak-covid and post covid timeframes.
 <br><br>
 
-Further details, conclusions and key takeaways are provided in [Ben's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)
+Further details, conclusions and key takeaways are provided in [Ben's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb).
 
 <br>
 
