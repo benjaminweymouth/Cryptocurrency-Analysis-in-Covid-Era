@@ -74,7 +74,9 @@ This section of our group project seeks to deconstruct some of the key features,
 <strong> Section 2: Covid Cases and Financial Analysis </strong>The second section will build upon the first, and introduces covid cases into the financial analysis using data from the World Health Organization.<br> <br>
 <strong> Section 3: A 3-point Portfolio Analysis </strong>The third section will analyse the performance of a portfolio that is semiconductor-centric but also includes cryptocurrency in both the pre-covid and post-covid timeframes. It will highlight 3 distinct points in time: the pre-covid, peak-covid and post covid timeframes.
 <br>
-Further details, conclusions and key takeaways are provided in [Ben's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb) .
+
+Further details, conclusions and key takeaways are provided in [Ben's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)
+
 <br>
 
 ### Video for Jupyter Notebook
