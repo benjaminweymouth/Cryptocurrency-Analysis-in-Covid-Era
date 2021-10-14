@@ -43,7 +43,7 @@ Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency An
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Mo_Jupyter_Video.gif)
 
 ## Semiconductor and Cryptocurrency Analysis by Benjamin Weymouth
-
+<br>
 This section of our group project seeks to deconstruct some of the key features, trends and correlations relating to cryptocurrency and the semiconductor chip industry during the covid era. The rises, dips and variations in the semiconductor industry are significant because it impacts many other industries. Notable changes in the cryptocurrency space are often highlighted but are rarely correlated the semiconductor industry. Thus, this analysis will examine these sectors in the covid era within three sections that build upon one another.
 
 <strong> Section 1: Cryptocurrencies and Semiconductors </strong> The first section will utilize financial analytical tools to compare the performance of three major cryptocurrencies to an ETF representing the semiconductor industry.
