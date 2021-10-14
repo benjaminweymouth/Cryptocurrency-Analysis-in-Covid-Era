@@ -35,11 +35,11 @@ Here is a recording of our powerpoint slide deck, which includes notes and highl
 
 In this part of the group project we compare cryptocurrency and gold in terms of daily and cumulative returns, volatility and correlations before and during covid. The rapid rise of cryptocurrencies over the past few years has drawn the attention of investors and analysts alike, and most often investments in cryptocurrencies are compared to investments in gold. Although there might be some similarities, it is widely acknowledged that gold and cryptocurrencies have no correlation. The most prominent difference between the two is that cryptocurrency does not exist in physical form, and there is no need for banking intermediaries to facilitate the transaction.
 
-Section 1: Cryptocurrencies and Gold comparability in pre covid era.
+<strong> Section 1: Cryptocurrencies and Gold comparability in pre covid era.
 
-Section 2: Cryptocurrencies and Gold comparability in during the covid era.
+<strong> Section 2: Cryptocurrencies and Gold comparability in during the covid era.
 
-Section 3: An investment analysis to answer the most weighted question of which is a better long term investment? Gold or cryptocurrency?
+<strong> Section 3: An investment analysis to answer the most weighted question of which is a better long term investment? Gold or cryptocurrency?
 
 Further details, conclusions and key takeaways are provided in [Sadia's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb).
 
@@ -63,11 +63,11 @@ To illustrate the above analysis with a real life case study, we are here listin
 
 Further details, conclusions and key takeaways are provided in [Mohamed's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb).
 
-Section 1 - Pulling and plotting Data.
+<strong> Section 1 - Pulling and plotting Data.
 
-Section 2 - Post-Covid Analysis.
+<strong> Section 2 - Post-Covid Analysis.
 
-Section 3 - Case Study: an Investment portfolio in Meme Stocks and BTC.
+<strong> Section 3 - Case Study: an Investment portfolio in Meme Stocks and BTC.
 
 ### Video for Jupyter Notebook  
 Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
