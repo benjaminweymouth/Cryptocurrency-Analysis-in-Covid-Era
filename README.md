@@ -64,9 +64,11 @@ To illustrate the above analysis with a real life case study, we are here listin
 
 Further details, conclusions and key takeaways are provided in [Mohamed's Jupyter Notebook](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb).
 
-Section 1 - Pulling and plotting Data
-Section 2 - Post-Covid Analysis
-Section 3 - Case Study: an Investment portfolio in Meme Stocks and BTC
+Section 1 - Pulling and plotting Data.
+
+Section 2 - Post-Covid Analysis.
+
+Section 3 - Case Study: an Investment portfolio in Meme Stocks and BTC.
 
 ### Video for Jupyter Notebook  
 Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
