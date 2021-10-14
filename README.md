@@ -33,33 +33,40 @@ Here is a recording of our powerpoint slide deck, which includes notes and highl
 
 ## Gold and Cryptocurrency Analysis by Sadia Akbar
 
-In this part of the group project we compare cryptocurrency and gold in terms of daily and cumulative returns, volatility and correlations before and during covid. The rapid rise of cryptocurrencies over the past few years has drawn the attention of investors and analysts alike, and most often investments in cryptocurrencies are compared to investments in gold. Although there might be some similarities, it is widely acknowledged that gold and cryptocurrencies have no correlation. The most prominent difference between the two is that cryptocurrency does not exist in physical form, and there is no need for banking intermediaries to facilitate the transaction.
-
-Section 1: Cryptocurrencies and Gold comparability in pre covid era.
-Section 2: Cryptocurrencies and Gold comparability in during the covid era.
-Section 3: An investment analysis to answer the most weighted question of which is a better long term investment? Gold or cryptocurrency?
-
 ### Video for Jupyter Notebook  
 Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Sadia-Final.ipynb) for Sadia's notebook. 
 ![GoldandCryptocurrencyRecording](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Sadia_analysis_video.gif)
 
 ## Meme Stock and Cryptocurrency Analysis by Mohamed Berrachdi
+<br>
+
+### Subject of this research
+
+Showing the fluctuation that occured for the so called Meme stocks pre covid and during covid, the majority of the stock for these
+companies was stable then saw a sharp fluctuation once they got picked up by the larger internet social commnunities, mainly reddit.
+
+As the case study sample, we will be using reddit and particulary a subreddit (or a group) called Wallstreetbets. https://www.reddit.com/r/wallstreetbets/
+
+Using date results from https://swaggystocks.com/dashboard/stocks/terminal/TSLA which is a website that analysises sentiment and comment over reddit and wallstreetbets forums, the chosen stocks where the most spoken about.
+### Case Study: an Investment portfolio in Meme Stocks and BTC
+
+To illustrate the above analysis with a real life case study, we are here listing an investment scenario for different amount both in Meme Stocks and BTC.
+
 ### Video for Jupyter Notebook  
 Here is a recording of Mo's Jupyter notebook on Meme Stock and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Mo_Cleaned_2.ipynb)  for Mo's notebook. 
 ![MemeStockandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Mo_Jupyter_Video.gif)
+<br>
 
 ## Semiconductor and Cryptocurrency Analysis by Benjamin Weymouth
-
-This section of our group project seeks to deconstruct some of the key features, trends and correlations relating to cryptocurrency and the semiconductor chip industry during the covid era. The rises, dips and variations in the semiconductor industry are significant because it impacts many other industries. Notable changes in the cryptocurrency space are often highlighted but are rarely correlated the semiconductor industry. Thus, this analysis will examine these sectors in the covid era within three sections that build upon one another. A detailed conclusion section is provided in the Jupyter notebook for Semiconductor analyis. 
-
-Section 1: Cryptocurrencies and Semiconductors The first section will utilize financial analytical tools to compare the performance of three major cryptocurrencies to an ETF representing the semiconductor industry. Graphs and further commentary for all three sections of this semiconductor analysis are in Ben's jupyter notebook. 
-
-Section 2: Covid Cases and Financial Analysis The second section will build upon the first, and introduces covid cases into the financial analysis using data from the World Health Organization.
-
-Section 3: A 3-point Portfolio Analysis The third section will analyse the performance of a portfolio that is semiconductor-centric but also includes cryptocurrency in both the pre-covid and post-covid timeframes. It will highlight 3 distinct points in time: the pre-covid, peak-covid and post covid timeframes.
+<br>
+This section of our group project seeks to deconstruct some of the key features, trends and correlations relating to cryptocurrency and the semiconductor chip industry during the covid era. The rises, dips and variations in the semiconductor industry are significant because it impacts many other industries. Notable changes in the cryptocurrency space are often highlighted but are rarely correlated the semiconductor industry. Thus, this analysis will examine these sectors in the covid era within three sections that build upon one another.
+<br><br> 
+<strong> Section 1: Cryptocurrencies and Semiconductors </strong> The first section will utilize financial analytical tools to compare the performance of three major cryptocurrencies to an ETF representing the semiconductor industry.<br> 
+<strong> Section 2: Covid Cases and Financial Analysis </strong>The second section will build upon the first, and introduces covid cases into the financial analysis using data from the World Health Organization.<br> 
+<strong> Section 3: A 3-point Portfolio Analysis </strong>The third section will analyse the performance of a portfolio that is semiconductor-centric but also includes cryptocurrency in both the pre-covid and post-covid timeframes. It will highlight 3 distinct points in time: the pre-covid, peak-covid and post covid timeframes.
 
 ### Video for Jupyter Notebook
-Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb)  Ben's notebook. 
+Here is a recording of Ben's Jupyter notebook on Semiconductor and Cryptocurrency Analysis. Here's the [link](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Python%20Code/DataAnalysis1_Ben.ipynb) for Ben's notebook. 
 ![SemiconductorandCryptocurrency](https://github.com/benjaminweymouth/fintech-project1-data-analysis/blob/main/Resources/Ben_Jupyter_Video.gif)
 
 ## Sources for Datasets
