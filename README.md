@@ -49,6 +49,7 @@ Here is a recording of Sadia's Jupyter notebook on Gold and Cryptocurrency Analy
 
 ## Meme Stock and Cryptocurrency Analysis by Mohamed Berrachdi
 <br>
+
 ### Subject of this research
 
 Showing the fluctuation that occured for the so called Meme stocks pre covid and during covid, the majority of the stock for these
