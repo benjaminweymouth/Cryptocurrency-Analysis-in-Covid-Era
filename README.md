@@ -1,4 +1,5 @@
-![ProjectLogo](/Resources/groupprojectlogo.png)
+![ProjectLogo](https://github.com/benjaminweymouth/cryptocurrency-analysis-in-covid-era/blob/main/Resources/CryptoTrendsHeader.png)
+
 # Crypto and Covid: An analysis of cryptocurrencies and the financial markets during the covid era
 
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
