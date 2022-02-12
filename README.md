@@ -2,6 +2,12 @@
 
 # Crypto and Covid: An analysis of cryptocurrencies and the financial markets during the covid era
 
+## Live Deployed Site
+
+This site represents our visual dashboard. Please enjoy it along with the analysis presented in this repo. 
+
+https://benjaminweymouth.github.io/Cryptocurrency-Analysis-in-Covid-Era/
+
 ### Project team members: Benjamin Weymouth, Mohamed Berrachdi, Sadia Akbar ###
 -----------------------------
 Our motivation is to understand how the covid pandemic affected market trends, volatility and correlations between various market forces in cryptocurrencies, commodities and the semiconductor industry. We will address the connection between cryptocurrencies, the covid pandemic, and various X-Factors: semiconductors, meme stocks and gold. 
